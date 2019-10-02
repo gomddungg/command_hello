@@ -1,7 +1,7 @@
 //For command line git tutorial
 //First: Local repository modification
 //Second: GitHub modification
-//modify master
+//modify master, and hotfix
 
 println("Hello World!")
 println("YHS")
