@@ -1,3 +1,6 @@
+//For command line git tutorial
+//GitHub modification
+
 println("Hello World!")
 println("YHS")
 <<<<<<< HEAD
